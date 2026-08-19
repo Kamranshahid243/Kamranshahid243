@@ -214,6 +214,8 @@ Building AI-powered workflows that automate repetitive tasks and improve product
 
 - 💼 LinkedIn: https://linkedin.com/in/kamran-shahid-1a7719193
 - 📧 Email: kamranshahid243@gmail.com
+- 🌐 Website: https://kamranshahid.vercel.app
+- Phone: +923122202081
 - 🌍 Open to Freelance Opportunities
 
 ---
